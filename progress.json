@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T04:04:14.701Z",
+  "generated_at": "2026-11-02T04:04:16.500Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -91,6 +91,58 @@
       "last_pushed_at": "2025-09-16T21:24:05.517Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2025-09-18T16:03:28.174Z",
+      "last_pushed_at": "2025-09-18T16:03:28.174Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2025-09-18T16:07:15.227Z",
+      "last_pushed_at": "2025-09-18T16:07:15.227Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2025-09-18T17:57:29.628Z",
+      "last_pushed_at": "2025-09-18T17:57:29.628Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2025-09-18T18:27:02.791Z",
+      "last_pushed_at": "2025-09-18T18:27:02.791Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
