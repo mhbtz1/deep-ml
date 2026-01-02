@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T04:04:18.296Z",
+  "generated_at": "2026-11-02T04:04:19.923Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -169,6 +169,32 @@
       "last_pushed_at": "2025-09-21T05:13:24.842Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-01-02T01:04:04.073Z",
+      "last_pushed_at": "2026-01-02T01:04:04.073Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-01-02T01:07:03.298Z",
+      "last_pushed_at": "2026-01-02T01:07:03.298Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
