@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T04:04:24.834Z",
+  "generated_at": "2026-11-02T04:04:26.444Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -234,6 +234,45 @@
       "last_pushed_at": "2026-01-07T02:24:27.104Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2026-06-21T21:42:50.375Z",
+      "last_pushed_at": "2026-06-21T21:42:50.375Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-06-21T21:55:08.661Z",
+      "last_pushed_at": "2026-06-21T21:55:08.661Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-06-21T22:08:38.854Z",
+      "last_pushed_at": "2026-06-21T22:08:38.854Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
