@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T04:04:26.444Z",
+  "generated_at": "2026-11-02T04:04:28.172Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -273,6 +273,32 @@
       "last_pushed_at": "2026-06-21T22:08:38.854Z",
       "language": "python",
       "lines": 10
+    },
+    "lab:23": {
+      "kind": "lab",
+      "id": "23",
+      "title": "Train a Binary Classifier",
+      "difficulty": "easy",
+      "category": "Logistic Regression",
+      "url": "https://www.deep-ml.com/labs/23",
+      "path": "labs/0023-train-a-binary-classifier",
+      "first_solved_at": "2026-07-06T01:52:12.142Z",
+      "last_pushed_at": "2026-07-06T01:52:12.142Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-07-06T04:49:05.244Z",
+      "last_pushed_at": "2026-07-06T04:49:05.244Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 21 problems · 0 labs · 0 math
+**23** solved · 22 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-09-18 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-09-18 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2025-09-21 | [solution](problems/0007-matrix-transformation) |
+| [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-07-06 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-07-06 | [solution](labs/0023-train-a-binary-classifier) |
 
 ---
 
